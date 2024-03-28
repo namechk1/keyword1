@@ -1,0 +1,10 @@
+#zfill
+str='9'
+print(str.zfill(10))
+#lower/upper
+str='PraNeeTha'
+print(str.upper())
+str='studentZ'
+print(max(str))
+str="hi hi hi hello"
+print(str.replace('hi hi hi','bye'))
